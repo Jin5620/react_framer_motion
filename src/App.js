@@ -1,12 +1,10 @@
 import './App.css';
-import Box11 from './motions/Box11';
+import FramerAccordion from './motions/FramerAccordion';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Box11 />
-      </header>
+        <FramerAccordion />
     </div>
   );
 }
