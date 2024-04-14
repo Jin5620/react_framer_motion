@@ -1,11 +1,11 @@
 import './App.css';
-import Box03 from './motions/Box03';
+import Box11 from './motions/Box11';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Box03 />
+        <Box11 />
       </header>
     </div>
   );
